@@ -75,4 +75,3 @@ function std_dev(x){
     document.write("The standard deviation is ",c,"<br>");
 }
 std_dev([18,15,6,15,19,5,40,20,15,68,26,12,6,40,28,33])
-Contact GitHub API Training Shop Blog About
